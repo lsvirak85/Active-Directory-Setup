@@ -104,4 +104,4 @@ The **Active Directory Home Lab** is a cybersecurity-focused environment designe
 ### **Next Steps**  
 - 🛠️ Setting up **Intrusion Detection Systems (IDS) and Endpoint Detection & Response (EDR)** solutions.  
 - 📊 Developing **Splunk dashboards** for real-time security event monitoring.  
-- 🔍 Exploring **threat hunting techniques** using logs collected in the lab.  
+- 🔍 Exploring **threat hunting techniques** using logs collected in the lab.
